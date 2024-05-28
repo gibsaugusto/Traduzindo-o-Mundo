@@ -1,0 +1,316 @@
+.icon {
+    position: absolute;
+    top: -40px;
+    left: 0px;
+    width: 1280px;
+    height: 853px;
+    object-fit: cover;
+}
+.tv-2-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1280px;
+    height: 720px;
+}
+.frame-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #94a3b8;
+    width: 590px;
+    height: 569px;
+}
+.materiais-resistentes {
+    position: absolute;
+    top: calc(50% - 296px);
+    left: calc(50% - 281px);
+    font-size: 35px;
+    display: inline-block;
+    width: 564px;
+}
+.px-flag-of-brazil-1-icon {
+    position: absolute;
+    top: 129px;
+    left: 0px;
+    width: 71px;
+    height: 49px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 6px;
+    background-color: #f87171;
+}
+.avariado {
+    position: absolute;
+    height: 100%;
+    width: 74.92%;
+    top: 0%;
+    left: 24.98%;
+    font-weight: 500;
+    display: inline-block;
+}
+.group-item {
+    position: absolute;
+    height: 85.43%;
+    width: 18.69%;
+    top: 7.14%;
+    right: 81.31%;
+    bottom: 7.43%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.avariado-parent {
+    position: absolute;
+    height: 87.28%;
+    width: 87.73%;
+    top: 6.23%;
+    right: 5.42%;
+    bottom: 6.48%;
+    left: 6.85%;
+}
+.rectangle-group {
+    position: absolute;
+    height: 2.92%;
+    width: 13.35%;
+    top: 16.22%;
+    right: 86.65%;
+    bottom: 80.86%;
+    left: 0%;
+    font-size: 12px;
+}
+.este-experimento-tem {
+    position: absolute;
+    top: 32px;
+    left: 0px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 562px;
+}
+.descrio {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.este-experimento-tem-como-obje-parent {
+    position: absolute;
+    top: 242px;
+    left: 0px;
+    width: 562px;
+    height: 104px;
+}
+.passo-a-passo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.passo-a-passo-para-o-reparo-wrapper {
+    position: absolute;
+    top: 410px;
+    left: 0px;
+    width: 179px;
+    height: 16px;
+    font-size: 14px;
+}
+.frame-item {
+    position: absolute;
+    top: 209.5px;
+    left: calc(50% - 281.5px);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-top: 1px solid rgba(161, 161, 170, 0.6);
+    box-sizing: border-box;
+    width: 563px;
+    height: 1px;
+}
+.frame-inner {
+    position: absolute;
+    top: 377.5px;
+    left: calc(50% - 281.5px);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-top: 1px solid rgba(161, 161, 170, 0.6);
+    box-sizing: border-box;
+    width: 563px;
+    height: 1px;
+}
+.avaliar-o-dano {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    display: inline-block;
+    width: 538px;
+}
+.group-inner {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    width: 16px;
+    height: 16px;
+}
+.avaliar-o-dano-ao-experimento-parent {
+    position: absolute;
+    top: 442px;
+    left: 0px;
+    width: 562px;
+    height: 18px;
+}
+.identificar-as-peas-que-preci-parent {
+    position: absolute;
+    top: 468px;
+    left: 0px;
+    width: 562px;
+    height: 18px;
+}
+.remover-as-peas-danificadas-c-parent {
+    position: absolute;
+    top: 494px;
+    left: 0px;
+    width: 562px;
+    height: 36px;
+}
+.icoutline-plus-icon {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 12px;
+    height: 12px;
+    overflow: hidden;
+}
+.adicionar-novo-item {
+    position: absolute;
+    top: 0px;
+    left: 22px;
+    display: inline-block;
+    width: 538px;
+}
+.icoutline-plus-parent {
+    position: absolute;
+    top: 538px;
+    left: 2px;
+    width: 560px;
+    height: 18px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.materiais-resistentes-radia-parent {
+    position: absolute;
+    top: 0px;
+    left: 622px;
+    width: 562px;
+    height: 592px;
+    overflow: hidden;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 95px;
+    left: 48px;
+    width: 1184px;
+    height: 569px;
+    overflow: hidden;
+}
+.tv-2-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #475569;
+    width: 1280px;
+    height: 64px;
+}
+.tv-2-inner {
+    position: absolute;
+    top: 16px;
+    left: 48px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 32px;
+    height: 32px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 180px);
+    border-radius: 6px;
+    background-color: #334155;
+    width: 360px;
+    height: 32px;
+}
+.material-symbolssearch-rounde-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.pesquisar {
+    position: absolute;
+    top: 5px;
+    left: 34px;
+    display: inline-block;
+    width: 230px;
+}
+.material-symbolssearch-rounde-parent {
+    position: absolute;
+    top: 4px;
+    left: 10px;
+    width: 264px;
+    height: 24px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 180px);
+    width: 360px;
+    height: 32px;
+    font-size: 12px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #475569;
+    width: 1280px;
+    height: 24px;
+}
+.freepik {
+    text-decoration: underline;
+}
+.background-por-freepik-container {
+    position: absolute;
+    top: 4px;
+    left: calc(50% - 79px);
+    font-weight: 300;
+}
+.group-div {
+    position: absolute;
+    top: 696px;
+    left: 0px;
+    width: 1280px;
+    height: 24px;
+    font-size: 15px;
+}
+.tv-2 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Ubuntu;
+}

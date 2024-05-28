@@ -1,0 +1,421 @@
+.icon {
+    position: absolute;
+    top: -40px;
+    left: 0px;
+    width: 1280px;
+    height: 853px;
+    object-fit: cover;
+}
+.tv-1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1280px;
+    height: 720px;
+}
+.densidade-ssea-e {
+    position: absolute;
+    top: 184px;
+    right: 8px;
+    font-weight: 500;
+    display: inline-block;
+    width: 244px;
+    height: 18px;
+}
+.component-1-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 130px);
+    border-radius: 6px;
+    background-color: #94a3b8;
+    width: 260px;
+    height: 171px;
+}
+.frame-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 6px;
+    background-color: #4ade80;
+}
+.intacto {
+    position: absolute;
+    height: 100%;
+    width: 71.43%;
+    top: 0%;
+    left: 28.57%;
+    font-weight: 500;
+    display: inline-block;
+}
+.group-child {
+    position: absolute;
+    height: 85.53%;
+    width: 21.43%;
+    top: 7.12%;
+    right: 78.57%;
+    bottom: 7.35%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.intacto-parent {
+    position: absolute;
+    height: 87.86%;
+    width: 87.5%;
+    top: 6.26%;
+    right: 6.25%;
+    bottom: 5.88%;
+    left: 6.25%;
+}
+.rectangle-parent {
+    position: absolute;
+    height: 6.95%;
+    top: 93.04%;
+    bottom: 0.01%;
+    left: calc(50% - 32px);
+    width: 64px;
+    text-align: left;
+    font-size: 12px;
+}
+.component-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 260px;
+    height: 249px;
+}
+.materiais-resistentes {
+    margin: 0;
+}
+.group-item {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 6px;
+    background-color: #f87171;
+}
+.avariado {
+    position: absolute;
+    height: 100%;
+    width: 75%;
+    top: 0%;
+    left: 25%;
+    font-weight: 500;
+    display: inline-block;
+}
+.group-inner {
+    position: absolute;
+    height: 85.43%;
+    width: 18.75%;
+    top: 7.14%;
+    right: 81.25%;
+    bottom: 7.43%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.avariado-parent {
+    position: absolute;
+    height: 87.28%;
+    width: 87.67%;
+    top: 6.23%;
+    right: 5.48%;
+    bottom: 6.48%;
+    left: 6.85%;
+}
+.rectangle-group {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.component-2-inner {
+    position: absolute;
+    height: 6.98%;
+    width: 28.08%;
+    top: 93.04%;
+    right: 36.15%;
+    bottom: -0.02%;
+    left: 35.77%;
+    text-align: left;
+    font-size: 12px;
+}
+.component-2 {
+    position: absolute;
+    top: 0px;
+    left: 308px;
+    width: 260px;
+    height: 248px;
+    cursor: pointer;
+}
+.component-11 {
+    position: absolute;
+    top: 271px;
+    left: 0px;
+    width: 260px;
+    height: 249px;
+}
+.component-21 {
+    position: absolute;
+    top: 271px;
+    left: 308px;
+    width: 260px;
+    height: 248px;
+    cursor: pointer;
+}
+.component-12 {
+    position: absolute;
+    top: 271px;
+    left: 616px;
+    width: 260px;
+    height: 249px;
+}
+.component-22 {
+    position: absolute;
+    top: 0px;
+    left: 616px;
+    width: 260px;
+    height: 248px;
+    cursor: pointer;
+}
+.component-13 {
+    position: absolute;
+    top: 0px;
+    left: 924px;
+    width: 260px;
+    height: 249px;
+}
+.component-23 {
+    position: absolute;
+    top: 271px;
+    left: 924px;
+    width: 260px;
+    height: 248px;
+    cursor: pointer;
+}
+.component-1-parent {
+    position: absolute;
+    top: 92px;
+    left: 48px;
+    width: 1184px;
+    height: 520px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+}
+.tv-1-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #475569;
+    width: 1280px;
+    height: 64px;
+}
+.tv-1-inner {
+    position: absolute;
+    top: 16px;
+    left: 48px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 32px;
+    height: 32px;
+}
+.group-child8 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 180px);
+    border-radius: 6px;
+    background-color: #334155;
+    width: 360px;
+    height: 32px;
+}
+.material-symbolssearch-rounde-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.pesquisar {
+    position: absolute;
+    top: 5px;
+    left: 34px;
+    display: inline-block;
+    width: 230px;
+}
+.material-symbolssearch-rounde-parent {
+    position: absolute;
+    top: 4px;
+    left: 10px;
+    width: 264px;
+    height: 24px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 180px);
+    width: 360px;
+    height: 32px;
+    font-size: 12px;
+}
+.group-child9 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 109px);
+    border-radius: 6px;
+    background-color: #475569;
+    width: 218px;
+    height: 38px;
+}
+.group-child10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px 0px 0px 6px;
+    background-color: #475569;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 43px;
+    height: 38px;
+}
+.group-child11 {
+    position: absolute;
+    top: 0px;
+    left: 218px;
+    border-radius: 6px 0px 0px 6px;
+    background-color: #475569;
+    width: 43px;
+    height: 38px;
+    transform:  rotate(180deg);
+    transform-origin: 0 0;
+}
+.group-child12 {
+    position: absolute;
+    top: 0px;
+    left: 43px;
+    background-color: #475569;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 44px;
+    height: 38px;
+}
+.group-child13 {
+    position: absolute;
+    top: 0px;
+    left: 87px;
+    background-color: #475569;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 43px;
+    height: 38px;
+}
+.group-child14 {
+    position: absolute;
+    top: 0px;
+    left: 130px;
+    background-color: #475569;
+    border-right: 1px solid #fff;
+    box-sizing: border-box;
+    width: 44px;
+    height: 38px;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 218px;
+    height: 38px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 640px;
+    left: calc(50% - 112px);
+    width: 218px;
+    height: 38px;
+}
+.material-symbolsarrow-back-io-icon {
+    position: absolute;
+    top: 647px;
+    left: 537px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.material-symbolsarrow-back-io-icon1 {
+    position: absolute;
+    top: 647px;
+    left: 712px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.div {
+    position: absolute;
+    top: 645px;
+    left: 586px;
+    font-weight: 500;
+}
+.div1 {
+    position: absolute;
+    top: 645px;
+    left: 630px;
+    font-weight: 500;
+}
+.div2 {
+    position: absolute;
+    top: 645px;
+    left: 673px;
+    font-weight: 500;
+}
+.group-child15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #475569;
+    width: 1280px;
+    height: 24px;
+}
+.freepik {
+    text-decoration: underline;
+}
+.background-por-freepik-container {
+    position: absolute;
+    top: 4px;
+    left: calc(50% - 79px);
+    font-weight: 300;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 696px;
+    left: -3px;
+    width: 1280px;
+    height: 24px;
+    font-size: 15px;
+}
+.tv-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: Ubuntu;
+} 
