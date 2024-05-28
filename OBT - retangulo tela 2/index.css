@@ -1,0 +1,120 @@
+.frame-child,
+.root-child {
+  position: relative;
+  display: none;
+}
+.root-child {
+  height: 81px;
+  width: 562px;
+  background-color: var(--color-gray-100);
+  max-width: 100%;
+}
+.frame-child {
+  height: 16px;
+  width: 78px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-mediumspringgreen);
+}
+.frame-item {
+  width: 12px;
+  height: 13px;
+  position: relative;
+  z-index: 1;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.confirmar {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 58px;
+  z-index: 1;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 11px;
+  left: 438px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-mediumspringgreen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0 3px;
+  gap: 5px;
+  z-index: 1;
+}
+.digite-aqui {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-ubuntu);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 13px;
+  left: 8px;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.frame-inner,
+.rectangle-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frame-inner {
+  top: 3px;
+  left: 8px;
+  border-bottom: 1px solid var(--color-darkgray);
+  width: 508px;
+  height: 28px;
+  z-index: 2;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 2px solid var(--color-darkgray);
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 524px;
+  height: 40px;
+}
+.frame-parent {
+  height: 40px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.root {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 0 20px 19px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: #fff;
+  font-family: var(--font-ubuntu);
+}

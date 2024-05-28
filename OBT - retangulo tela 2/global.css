@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-gray-100: #0d0518;
+  --color-darkgray: rgba(161, 161, 170, 0.6);
+  --color-mediumspringgreen: #4ade80;
+
+  /* Paddings */
+  --padding-12xs: 1px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+}
